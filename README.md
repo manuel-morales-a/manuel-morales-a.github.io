@@ -27,15 +27,15 @@
 ## Publications
 
 - **2023**  
-  Hide and seek: how PDFs can conceal New Physics, in collaboration with E. Hammou, Z. Kassabov, M. Madigan, L. Mantani, M. L. Mangano, J. Moore, and M. Ubiali.  
+  **Hide and seek: how PDFs can conceal New Physics**, in collaboration with (authors in alphabetical order, convention in high energy physics) E. Hammou, Z. Kassabov, M. Madigan, L. Mantani, M. L. Mangano, J. Moore, and M. Ubiali.  
   [INSPIREHEP](https://inspirehep.net/literature/2678787)
 
 - **2023**  
-  The top quark legacy of the LHC Run II for PDF and SMEFT analyses, in collaboration with Z. Kassabov, M. Madigan, L. Mantani, J. Moore, J. Rojo, and M. Ubiali.  
+  **The top quark legacy of the LHC Run II for PDF and SMEFT analyses**, in collaboration with (authors in alphabetical order, convention in high energy physics) Z. Kassabov, M. Madigan, L. Mantani, J. Moore, J. Rojo, and M. Ubiali.  
   [INSPIREHEP](https://inspirehep.net/literature/2641515)
 
 - **2020**  
-  Covariant multipole expansion of local currents for massive states of any spin, in collaboration with S. Cotogno, C. Lorcé, and P. Lowdon.  
+  **Covariant multipole expansion of local currents for massive states of any spin**, in collaboration with (authors in alphabetical order, convention in high energy physics) S. Cotogno, C. Lorcé, and P. Lowdon.  
   [INSPIREHEP](http://inspirehep.net/record/1771524)
 
 ---
@@ -60,7 +60,7 @@
 - **2022**  
   **DIS Conference, Santiago de Compostela, Spain**  
 
-...
+---
 
 ## Seminars and Talks
 
@@ -86,16 +86,7 @@
   **Simposium of the Chilean Society of Physics (SOCHIFI)**  
 
 
-...
-
-## Academic Achievements
-
-- **2023**  
-  **Finalist at STEM for Britain**  
-  House of Commons, UK Parliament, Westminster
-
-...
-
+---
 
 ## Academic Experience
 
@@ -116,7 +107,7 @@
   Department of Applied Mathematics and Theoretical Physics, University of Cambridge
 
 
-...
+---
 
 ## Scientific Outreach
 
@@ -138,7 +129,4 @@
   **Web designer**  
   I am the main web developer of [pbsp.org.uk](http://pbsp.org.uk), the official webpage of the ERC-awarded collaboration PBSP, led by Prof. Maria Ubiali and based at the University of Cambridge.
 
-...
-
----
 
