@@ -2,12 +2,6 @@
 
 ---
 
-## Contact Information
-
-- **Address:** DAMTP, Wilberforce Rd, Cambridge CB3 0WA – UK
-
----
-
 ## Education
 
 - **2021 - Present**  
