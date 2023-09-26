@@ -1,5 +1,5 @@
 title: Manuel Morales Alvarado
 logo: /assets/img/round_img.png
 #description: A description
-#show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
