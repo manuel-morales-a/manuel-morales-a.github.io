@@ -2,7 +2,7 @@
 
 Hello! 
 
-I am currently a 3rd year PhD student at the Department of Applied Mathematics and Theoretical Physics (DAMTP) of the University of Cambridge. I am a member of Prof. Maria Ubiali's PBSP group.
+I am currently a 3rd year PhD student at the [Department of Applied Mathematics and Theoretical Physics](https://www.damtp.cam.ac.uk/) of the [University of Cambridge](https://www.cam.ac.uk/). I am a member of Prof. Maria Ubiali's [PBSP group](http://pbsp.org.uk/).
 
 My research is centered around high energy physics phenomenology, which studies the observable consequences of theoretical physics models. I am particularly interested in indirect searches for new physics beyond Standard Model, and their interplay with parton distribution functions, which parametrise the structure of hadrons. I apply diverse machine learning techniques and statistical analyses to study the intricacies of this interplay.
 
