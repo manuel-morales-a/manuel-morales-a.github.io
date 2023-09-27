@@ -1,5 +1,3 @@
-# Personal website
-
 Hello! 
 
 I am currently a 3rd year PhD student at the [Department of Applied Mathematics and Theoretical Physics](https://www.damtp.cam.ac.uk/) of the [University of Cambridge](https://www.cam.ac.uk/). I am a member of Prof. Maria Ubiali's [PBSP group](http://pbsp.org.uk/).
