@@ -1,6 +1,6 @@
 Hello! 
 
-I am currently a 3rd year PhD student at the [Department of Applied Mathematics and Theoretical Physics](https://www.damtp.cam.ac.uk/) of the [University of Cambridge](https://www.cam.ac.uk/). I am a member of Prof. Maria Ubiali's [PBSP group](http://pbsp.org.uk/).
+I am currently a 4th year PhD student at the [Department of Applied Mathematics and Theoretical Physics](https://www.damtp.cam.ac.uk/) of the [University of Cambridge](https://www.cam.ac.uk/). I am a member of Prof. Maria Ubiali's [PBSP group](http://pbsp.org.uk/).
 
 My research is centered around high energy physics phenomenology, which studies the observable consequences of theoretical physics models. I am particularly interested in indirect searches for new physics beyond Standard Model, and their interplay with parton distribution functions, which parametrise the structure of hadrons. I apply diverse machine learning techniques and statistical analyses to study the intricacies of this interplay.
 
@@ -23,6 +23,11 @@ My research is centered around high energy physics phenomenology, which studies 
 ---
 
 ## Publications
+
+- **2024**  
+  **SIMUnet: an open-source tool for simultaneous global fits
+of EFT Wilson coefficients and PDFs**, in collaboration with (authors in alphabetical order, convention in high energy physics) M. N. Costantini, E. Hammou, Z. Kassabov, M. Madigan, L. Mantani, J. Moore, and M. Ubiali.  
+  [INSPIREHEP](https://inspirehep.net/literature/2755426)
 
 - **2023**  
   **Hide and seek: how PDFs can conceal New Physics**, in collaboration with (authors in alphabetical order, convention in high energy physics) E. Hammou, Z. Kassabov, M. Madigan, L. Mantani, M. L. Mangano, J. Moore, and M. Ubiali.  
