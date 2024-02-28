@@ -51,10 +51,7 @@ of EFT Wilson coefficients and PDFs**, in collaboration with (authors in alphabe
 - **2023**  
   **HEFT 2023, Manchester, UK**  
 
-- **2023 (Plenary talk)**  
-  **HEP in the LHC Era 2023, Valparaíso, Chile**  
-
-- **2023**  
+- **2023 (Plenary talk + parallel session)**  
   **HEP in the LHC Era 2023, Valparaíso, Chile**  
 
 - **2022**  
