@@ -1,15 +1,15 @@
 Hello! 
 
-I am currently a 4th year PhD student at the [Department of Applied Mathematics and Theoretical Physics](https://www.damtp.cam.ac.uk/) of the [University of Cambridge](https://www.cam.ac.uk/). I am a member of Prof. Maria Ubiali's [PBSP group](http://pbsp.org.uk/).
+I am a postdoctoral researcher at [INFN](https://home.infn.it/it/) Trieste based at the International School of Advanced Studies [SISSA](https://www.sissa.it/it). My research centres on high energy physics phenomenology, where I explore the observable outcomes of theoretical physics models. I am particularly interested in applying machine learning and statistical techniques to deepen our understanding of these complex phenomena.
 
-My research is centered around high energy physics phenomenology, which studies the observable consequences of theoretical physics models. I am particularly interested in indirect searches for new physics beyond Standard Model, and their interplay with parton distribution functions, which parametrise the structure of hadrons. I apply diverse machine learning techniques and statistical analyses to study the intricacies of this interplay.
+I obtained my PhD at the [Department of Applied Mathematics and Theoretical Physics](https://www.damtp.cam.ac.uk/) of the [University of Cambridge](https://www.cam.ac.uk/). I was a member of Prof. Maria Ubiali's [PBSP group](http://pbsp.org.uk/) studying the interplay between physics beyond the Standard Model and parton distribution functions, quantities that parametrise the structure of the proton.
 
 ---
 
 ## Education
 
-- **2021 - Present**  
-  **Ph.D. Student in Theoretical Physics**  
+- **2021 - 2024**  
+  **Ph.D. in Theoretical Physics**  
   DAMTP - University of Cambridge
 
 - **2020**  
