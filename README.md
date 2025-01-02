@@ -6,6 +6,14 @@ I obtained my PhD at the [Department of Applied Mathematics and Theoretical Phys
 
 ---
 
+## Appointments
+
+- **2024 - Now**  
+  **Postdoctoral researcher**  
+  INFN Trieste
+
+---
+
 ## Education
 
 - **2021 - 2024**  
@@ -23,6 +31,10 @@ I obtained my PhD at the [Department of Applied Mathematics and Theoretical Phys
 ---
 
 ## Publications
+
+- **2024**  
+  **Symbolic regression for precision LHC physics**, in collaboration with (authors in alphabetical order, convention in high energy physics) J. Bendavid, D. Conde, M. Ubiali, V. Sanz.  
+  [INSPIREHEP](https://inspirehep.net/literature/2858279)
 
 - **2024**  
   **SIMUnet: an open-source tool for simultaneous global fits
@@ -44,6 +56,12 @@ of EFT Wilson coefficients and PDFs**, in collaboration with (authors in alphabe
 ---
 
 ## Conferences
+
+- **2024**  
+  **NeurIPS - Machine Learning for the Physical Sciences Workshop, Canada**
+
+- **2024**  
+  **European Conference for AI for Fundamental Physics, Netherlands**
 
 - **2023**  
   **Les Houches Workshop Series - Physics at TeV Colliders and Beyond the Standard Model, France**  
