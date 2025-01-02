@@ -33,7 +33,7 @@ I obtained my PhD at the [Department of Applied Mathematics and Theoretical Phys
 ## Publications
 
 - **2025 (forthcoming)**  
-  **A Statistical Analysis of Scientific Metrics in High Energy, Cosmology, and Astroparticle Physics in Latin America**, in collaboration with (authors in alphabetical order, convention in high energy physics) F. Quevedo, M. Ramos-Hamud, D. Restrepo.  
+  **A Statistical Analysis of Scientific Metrics in High Energy, Cosmology, and Astroparticle Physics in Latin America**, in collaboration with (authors in alphabetical order, convention in high energy physics) F. Quevedo, M. Ramos-Hamud, and D. Restrepo.  
 
 - **2024**  
   **Symbolic regression for precision LHC physics**, in collaboration with (authors in alphabetical order, convention in high energy physics) J. Bendavid, D. Conde, M. Ubiali, and V. Sanz.  
