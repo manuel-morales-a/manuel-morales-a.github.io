@@ -4,6 +4,8 @@ I am a postdoctoral researcher at [INFN](https://home.infn.it/it/) Trieste based
 
 I obtained my PhD at the [Department of Applied Mathematics and Theoretical Physics](https://www.damtp.cam.ac.uk/) of the [University of Cambridge](https://www.cam.ac.uk/). I was a member of Prof. Maria Ubiali's [PBSP group](http://pbsp.org.uk/) studying the interplay between physics beyond the Standard Model and parton distribution functions, quantities that parametrise the structure of the proton.
 
+Here you can find a brief summary of my career, research, and outreach.
+
 ---
 
 ## Appointments
@@ -32,8 +34,8 @@ I obtained my PhD at the [Department of Applied Mathematics and Theoretical Phys
 
 ## Publications
 
-- **2025 (forthcoming)**  
-  **A Statistical Analysis of Scientific Metrics in High Energy, Cosmology, and Astroparticle Physics in Latin America**, in collaboration with (authors in alphabetical order, convention in high energy physics) F. Quevedo, M. Ramos-Hamud, and D. Restrepo.  
+- **Early 2025 (forthcoming)**  
+  **A Statistical Analysis of Scientific Metrics in High Energy, Cosmology, and Astroparticle Physics in Latin America**, in collaboration with (authors in alphabetical order, convention in high energy physics) F. Quevedo, M. Ramos-Hamud, and D. Restrepo. Discussed in Plenary Talks at [8th International Conference on High Energy Physics in the LHC Era, Chile](https://indico.global/event/8668/timetable/#20230113.detailed) and The [XV Latin American Symposium on High Energy Physics, Mexico](https://indico.nucleares.unam.mx/event/2125/). 
 
 - **2024**  
   **Symbolic regression for precision LHC physics**, in collaboration with (authors in alphabetical order, convention in high energy physics) J. Bendavid, D. Conde, M. Ubiali, and V. Sanz.  
@@ -133,7 +135,7 @@ of EFT Wilson coefficients and PDFs**, in collaboration with (authors in alphabe
 ## Scientific Outreach
 
 - **2023**  
-  **Finalist at STEM for Britain, at the House of Commons, UK Parliament, Westminster**  
+  **Speaker at STEM for Britain, at the House of Commons, UK Parliament, Westminster**  
 
 - **2023**  
   **Research evening (Pecha Kucha) at Girton College - Cambridge**  
@@ -150,4 +152,16 @@ of EFT Wilson coefficients and PDFs**, in collaboration with (authors in alphabe
   **Web designer**  
   I am the main web developer of [pbsp.org.uk](http://pbsp.org.uk), the official webpage of the ERC-awarded collaboration PBSP, led by Prof. Maria Ubiali and based at the University of Cambridge.
 
+---
 
+## Extra Media
+
+- **Notables Podcast**  
+  Click [here](https://www.youtube.com/watch?v=sVvGmlfNdEU).
+
+- **Pint of Science United Kingdom**  
+  Click [here](https://pintofscience.co.uk/event/uncovering-the-building-blocks-of-the-universe-1).
+
+- **STEM 4 Britain**  
+  Click [here](https://www.scienceinparliament.org.uk/wp-content/uploads/2023/04/SIP-79-1-Spring-2023.pdf).
+  
