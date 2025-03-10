@@ -34,8 +34,11 @@ Here you can find a brief summary of my career, research, and outreach.
 
 ## Publications
 
-- **Early 2025 (forthcoming)**  
-  **A Statistical Analysis of Scientific Metrics in High Energy, Cosmology, and Astroparticle Physics in Latin America**, in collaboration with (authors in alphabetical order, convention in high energy physics) F. Quevedo, M. Ramos-Hamud, and D. Restrepo. Discussed in Plenary Talks at [8th International Conference on High Energy Physics in the LHC Era, Chile](https://indico.global/event/8668/timetable/#20230113.detailed) and The [XV Latin American Symposium on High Energy Physics, Mexico](https://indico.nucleares.unam.mx/event/2125/). 
+- **2025**  
+  **Statistical Analysis of Scientific Metrics in High Energy, Cosmology, and Astroparticle Physics in Latin America**, in collaboration with (authors in alphabetical order, convention in high energy physics) F. Quevedo, M. Ramos-Hamud, and D. Restrepo. [INSPIREHEP](https://inspirehep.net/literature/2897923).
+
+- **2025**  
+  **Precision phenomenoloy of the PDF-BSM interplay**, [PhD thesis](https://indico.nucleares.unam.mx/event/2125/).   
 
 - **2024**  
   **Symbolic regression for precision LHC physics**, in collaboration with (authors in alphabetical order, convention in high energy physics) J. Bendavid, D. Conde, M. Ubiali, and V. Sanz.  
