@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/img/round_img.png" alt="Manuel Morales Alvarado" width="160" style="border-radius:50%">
+  <img src="/assets/img/round_img.png" alt="Manuel Morales Alvarado" width="240" style="border-radius:50%">
 </p>
 
 Hello! 
