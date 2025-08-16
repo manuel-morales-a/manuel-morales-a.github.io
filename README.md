@@ -3,19 +3,19 @@
   <img src="/assets/img/round_img.png" alt="Manuel Morales Alvarado" width="240" style="border-radius:50%">
 </p>
 
-<p align="center"><em>Postdoctoral Researcher • High-Energy Physics • ML &amp; Statistics</em></p>
+<p align="center"><em>High energy physics • ML • AI 4 Science &amp; Statistics</em></p>
 
 <p align="center">
   <a href="/assets/CV_ManuelMorales.pdf">📄 CV</a> •
-  <a href="https://scholar.google.com/">🎓 Google Scholar</a> •
-  <a href="https://github.com/yourusername">💻 GitHub</a> •
-  <a href="mailto:you@example.com">✉️ Email</a>
+  <a href="https://scholar.google.com/citations?user=uRNop8cAAAAJ">🎓 Google Scholar</a> •
+  <a href="https://github.com/manuel-morales-a">💻 GitHub</a> •
+  <!-- • <a href="mailto:you@example.com">✉️ Email</a> -->
 </p>
 
 <!-- Keep only non-duplicative badges (e.g., ORCID). Add more if you like. -->
 <p align="center">
-  <a href="https://orcid.org/0000-0000-0000-0000">
-    <img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0000--0000--0000-lightgrey">
+  <a href="https://orcid.org/0000-0002-3974-3448">
+    <img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000-0002-3974-3448-lightgrey">
   </a>
 </p>
 
