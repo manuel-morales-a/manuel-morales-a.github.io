@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/assets/img/round_img.png" alt="Manuel Morales Alvarado" width="160" style="border-radius:50%">
+</p>
+
 Hello! 
 
 I am a postdoctoral researcher at [INFN](https://home.infn.it/it/) Trieste based at the International School of Advanced Studies [SISSA](https://www.sissa.it/it). My research centres on high energy physics phenomenology, where I explore the observable outcomes of theoretical physics models. I am particularly interested in applying machine learning and statistical techniques to deepen our understanding of these complex phenomena.
