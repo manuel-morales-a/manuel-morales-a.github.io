@@ -1,8 +1,8 @@
+<!-- HERO -->
 <p align="center">
   <img src="/assets/img/round_img.png" alt="Manuel Morales Alvarado" width="240" style="border-radius:50%">
 </p>
 
-<h1 align="center" style="margin-top:0;">Manuel Morales Alvarado</h1>
 <p align="center"><em>Postdoctoral Researcher • High-Energy Physics • ML &amp; Statistics</em></p>
 
 <p align="center">
@@ -12,27 +12,18 @@
   <a href="mailto:you@example.com">✉️ Email</a>
 </p>
 
+<!-- Keep only non-duplicative badges (e.g., ORCID). Add more if you like. -->
 <p align="center">
   <a href="https://orcid.org/0000-0000-0000-0000">
     <img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0000--0000--0000-lightgrey">
-  </a>
-  <a href="https://scholar.google.com/">
-    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Profile-blue">
-  </a>
-  <a href="https://github.com/yourusername">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@yourusername-black">
   </a>
 </p>
 
 <hr>
 
-<div style="display:flex; gap:20px; align-items:center; flex-wrap:wrap;">
-
-  <div>
-    <img src="/assets/img/round_img.png" alt="Manuel Morales Alvarado" width="240" style="border-radius:50%">
-  </div>
-
-  <div>
+<!-- INTRO (no second image, just the text) -->
+<div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap;">
+  <div style="flex:1; min-width:280px;">
     <h2>Hello!</h2>
     <p>
       I am a postdoctoral researcher at <a href="https://home.infn.it/it/">INFN</a> Trieste based at the International School of Advanced Studies 
@@ -51,8 +42,8 @@
       Here you can find a brief summary of my career, research, and outreach.
     </p>
   </div>
-
 </div>
+
 ---
 
 ## Appointments
