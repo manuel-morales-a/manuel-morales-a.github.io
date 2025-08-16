@@ -1,15 +1,30 @@
-<p align="center">
-  <img src="/assets/img/round_img.png" alt="Manuel Morales Alvarado" width="240" style="border-radius:50%">
-</p>
+<div style="display:flex; gap:20px; align-items:center; flex-wrap:wrap;">
 
-Hello! 
+  <div>
+    <img src="/assets/img/round_img.png" alt="Manuel Morales Alvarado" width="240" style="border-radius:50%">
+  </div>
 
-I am a postdoctoral researcher at [INFN](https://home.infn.it/it/) Trieste based at the International School of Advanced Studies [SISSA](https://www.sissa.it/it). My research centres on high energy physics phenomenology, where I explore the observable outcomes of theoretical physics models. I am particularly interested in applying machine learning and statistical techniques to deepen our understanding of these complex phenomena.
+  <div>
+    <h2>Hello!</h2>
+    <p>
+      I am a postdoctoral researcher at <a href="https://home.infn.it/it/">INFN</a> Trieste based at the International School of Advanced Studies 
+      <a href="https://www.sissa.it/it">SISSA</a>. My research centres on high energy physics phenomenology, where I explore the observable outcomes of 
+      theoretical physics models. I am particularly interested in applying machine learning and statistical techniques to deepen our understanding of 
+      these complex phenomena.
+    </p>
+    <p>
+      I obtained my PhD at the 
+      <a href="https://www.damtp.cam.ac.uk/">Department of Applied Mathematics and Theoretical Physics</a> of the 
+      <a href="https://www.cam.ac.uk/">University of Cambridge</a>. I was a member of Prof. Maria Ubiali's 
+      <a href="http://pbsp.org.uk/">PBSP group</a> studying the interplay between physics beyond the Standard Model and 
+      parton distribution functions, quantities that parametrise the structure of the proton.
+    </p>
+    <p>
+      Here you can find a brief summary of my career, research, and outreach.
+    </p>
+  </div>
 
-I obtained my PhD at the [Department of Applied Mathematics and Theoretical Physics](https://www.damtp.cam.ac.uk/) of the [University of Cambridge](https://www.cam.ac.uk/). I was a member of Prof. Maria Ubiali's [PBSP group](http://pbsp.org.uk/) studying the interplay between physics beyond the Standard Model and parton distribution functions, quantities that parametrise the structure of the proton.
-
-Here you can find a brief summary of my career, research, and outreach.
-
+</div>
 ---
 
 ## Appointments
