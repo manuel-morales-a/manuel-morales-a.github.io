@@ -1,3 +1,6 @@
+<!-- New font  -->
+<link rel="stylesheet" href="/assets/css/style.css">
+
 <!-- HERO -->
 <p align="center">
   <img src="/assets/img/round_img.png" alt="Manuel Morales Alvarado" width="240" style="border-radius:50%">

@@ -4,4 +4,8 @@ logo: /assets/img/round_img.png
 show_downloads: false
 #theme: jekyll-theme-minimal
 theme: jekyll-theme-cayman
+sass:
+  style: compressed
+
+# make sure your CSS overrides load after the theme
 
