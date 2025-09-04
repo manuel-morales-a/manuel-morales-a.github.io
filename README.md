@@ -1,5 +1,8 @@
-<!-- New font  -->
-<link rel="stylesheet" href="/assets/css/style.css">
+
+---
+layout: custom
+title: Manuel Morales-Alvarado
+---
 
 <!-- HERO -->
 <p align="center">
