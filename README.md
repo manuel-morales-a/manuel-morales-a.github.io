@@ -39,7 +39,16 @@ Here you can find a brief summary of my career, research, and outreach.
 ## Publications
 
 - **2025**  
-  **Statistical Analysis of Scientific Metrics in High Energy, Cosmology, and Astroparticle Physics in Latin America**, in collaboration with (authors in alphabetical order, convention in high energy physics) F. Quevedo, M. Ramos-Hamud, and D. Restrepo. [INSPIREHEP](https://inspirehep.net/literature/2897923).
+  **Angular Coefficients from Interpretable Machine Learning with Symbolic Regression**, in collaboration with (authors in alphabetical order, convention in high energy physics) J. Bendavid, D. Conde, M. Morales-Alvarado, V. Sanz, and M. Ubiali.  
+  [INSPIREHEP](https://inspirehep.net/literature/2957199)
+
+- **2025**  
+  **The Muon Collider**, The Muon Collider Collaboration.  
+  [INSPIREHEP](https://inspirehep.net/literature/2917073)
+
+- **2025**  
+  **Statistical Analysis of Scientific Metrics in High Energy, Cosmology, and Astroparticle Physics in Latin America**, in collaboration with (authors in alphabetical order, convention in high energy physics) F. Quevedo, M. Ramos-Hamud, and D. Restrepo.  
+  [INSPIREHEP](https://inspirehep.net/literature/2897923).
 
 - **2025**  
   **Precision phenomenoloy of the PDF-BSM interplay**, [PhD thesis](https://indico.nucleares.unam.mx/event/2125/).   
@@ -68,6 +77,18 @@ of EFT Wilson coefficients and PDFs**, in collaboration with (authors in alphabe
 ---
 
 ## Conferences
+
+- **2025**  
+  **IAIFI Summer Workshop - Harvard, Cambridge, MA, US**
+
+- **2025**  
+  **IAIFI Summer School (hackathon + poster) - Harvard, Cambridge, MA, US**
+
+- **2025**  
+  **GGI Workshop: Exploring the energy frontier with muon beams, Florence, Italy**
+
+- **2025**  
+  **International Muon Collider Collaboration Annual Meeting, DESY, Hamburg, Germany**
 
 - **2024**  
   **NeurIPS - Machine Learning for the Physical Sciences Workshop, Canada**
