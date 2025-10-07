@@ -39,6 +39,10 @@ Here you can find a brief summary of my career, research, and outreach.
 ## Publications
 
 - **2025**  
+  **Foundation models for equation discovery in high energy physics**.  
+    [INSPIREHEP](https://inspirehep.net/literature/3063272)
+  
+- **2025**  
   **Angular Coefficients from Interpretable Machine Learning with Symbolic Regression**, in collaboration with (authors in alphabetical order, convention in high energy physics) J. Bendavid, D. Conde, M. Morales-Alvarado, V. Sanz, and M. Ubiali.  
   [INSPIREHEP](https://inspirehep.net/literature/2957199)
 
@@ -77,6 +81,9 @@ of EFT Wilson coefficients and PDFs**, in collaboration with (authors in alphabe
 ---
 
 ## Conferences
+
+- **2025**  
+  **XXI Neutrino Telescopes Workshop, Padua, Italy, 2025**
 
 - **2025**  
   **IAIFI Summer Workshop - Harvard, Cambridge, MA, US**
