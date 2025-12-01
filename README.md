@@ -39,6 +39,14 @@ Here you can find a brief summary of my career, research, and outreach.
 ## Publications
 
 - **2025**  
+  **Quark mixing from muon collider neutrinos**.  
+    [INSPIREHEP](https://inspirehep.net/literature/3087496)
+  
+- **2025**  
+  **MuCol Report: Consolidated Parameters**.  
+    [INSPIREHEP](https://inspirehep.net/literature/3075693)
+  
+- **2025**  
   **Foundation models for equation discovery in high energy physics**.  
     [INSPIREHEP](https://inspirehep.net/literature/3063272)
   
@@ -122,6 +130,9 @@ of EFT Wilson coefficients and PDFs**, in collaboration with (authors in alphabe
 
 ## Seminars and Talks
 
+- **2024, 2025**  
+  **To be updated**
+  
 - **2023**  
   **Seminar, DFI FCFM - Universidad de Chile**  
 
