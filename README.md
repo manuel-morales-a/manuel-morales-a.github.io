@@ -4,7 +4,7 @@
 
 Hello! 
 
-I am a postdoctoral researcher at [INFN](https://home.infn.it/it/) Trieste based at the International School of Advanced Studies [SISSA](https://www.sissa.it/it). My research centres on high energy physics phenomenology, where I explore the observable outcomes of theoretical physics models. I am particularly interested in applying machine learning and statistical techniques to deepen our understanding of these complex phenomena.
+I am a postdoctoral researcher at [INFN](https://home.infn.it/it/) Trieste based at the International School of Advanced Studies [SISSA](https://www.sissa.it/it). My research lies at the interface between artificial intelligence and high energy physics phenomenology, where I explore the observable outcomes of theoretical physics models. I am particularly interested in applying machine learning and statistical techniques to deepen our understanding of these complex phenomena.
 
 I obtained my PhD at the [Department of Applied Mathematics and Theoretical Physics](https://www.damtp.cam.ac.uk/) of the [University of Cambridge](https://www.cam.ac.uk/). I was a member of Prof. Maria Ubiali's [PBSP group](http://pbsp.org.uk/) studying the interplay between physics beyond the Standard Model and parton distribution functions, quantities that parametrise the structure of the proton.
 
@@ -37,6 +37,10 @@ Here you can find a brief summary of my career, research, and outreach.
 ---
 
 ## Publications
+
+- **2026**  
+  **Tailored PDFs for New Physics searches**.  
+    [INSPIREHEP](https://inspirehep.net/literature/3123201)
 
 - **2025**  
   **Quark mixing from muon collider neutrinos**.  
